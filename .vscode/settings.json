@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "backends",
+        "wgpu"
+    ],
+    "cSpell.ignorePaths": [
+        ".vscode",
+        "Cargo.lock"
+    ]
+}
